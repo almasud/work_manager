@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Work Manager</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="start_one_time_request">Start One Time Request</string>
+    <string name="start_periodic_request">Start Periodic Request</string>
+    <string name="stop_periodic_request">Stop Periodic Request</string>
+    <string name="work_manager_one_time_request">Work manager one time request</string>
+    <string name="work_manager_periodic_request">Work manager periodic request</string>
+    <string name="work_manager_one_time_foreground_request">Work manager one time foreground request</string>
+    <string name="work_manager">Work manager</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_one_time_foreground_request">Start one time foreground request</string>
+</resources>
